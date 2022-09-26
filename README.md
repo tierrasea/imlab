@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Haejoon working in Imweb as an Product instructor.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning HTML, CSS, Vanilla script.
+- 📫 Leave me a message at tierrasea@gmail.com
