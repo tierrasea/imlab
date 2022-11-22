@@ -1,0 +1,5 @@
+<picture>
+    <source srcset="WEBP 이미지 소스 URL" type="image/webp">
+    <source srcset="WEBP 동작 제한 시 이미지 소스 URL" type="image/jpeg">
+    <img alt="대체문구" src="WEBP 동작 제한 시 이미지 소스 URL">
+</picture>
